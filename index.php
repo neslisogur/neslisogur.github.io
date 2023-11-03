@@ -42,7 +42,7 @@
 								<li class="mr-lg-4 mr-3"><a href="#about" class="scroll">About Us</a></li>
 								<li class="mr-lg-4 mr-3"><a href="#services" class="scroll">Services</a></li>
 								 <li class="mr-lg-4 mr-3"><a href="#work" class="scroll">Projects</a></li>
-								<li><a href="#contact" class="scroll"><?php echo 'slm' ?></a></li>
+								<li><a href="#contact" class="scroll">Contact Us</a></li>
 							</ul>
 						</nav>
 			</div>
