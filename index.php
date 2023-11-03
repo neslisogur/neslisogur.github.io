@@ -1,9 +1,3 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -47,8 +41,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<li class="mr-lg-4 mr-3 active"><a href="index.html">Home</a></li>
 								<li class="mr-lg-4 mr-3"><a href="#about" class="scroll">About Us</a></li>
 								<li class="mr-lg-4 mr-3"><a href="#services" class="scroll">Services</a></li>
-								 <li class="mr-lg-4 mr-3"><a href="#work" class="scroll">My Work</a></li>
-								<li><a href="#contact" class="scroll">Contact Us</a></li>
+								 <li class="mr-lg-4 mr-3"><a href="#work" class="scroll">Projects</a></li>
+								<li><a href="#contact" class="scroll"><?php echo 'slm' ?></a></li>
 							</ul>
 						</nav>
 			</div>
